@@ -1,0 +1,21 @@
+# ninja log v5
+0	15	1724087989602162437	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-mkdir	28f25c9754d77bcd
+0	15	1724087989602162437	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-mkdir	28f25c9754d77bcd
+15	1754	1724087991341770782	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-download	5f272b696754acd4
+15	1754	1724087991341770782	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-download	5f272b696754acd4
+1754	1809	0	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-update	4a2a1e433fc91cc8
+1754	1809	0	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-update	4a2a1e433fc91cc8
+1809	1821	1724087991409414507	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-patch	4ae3c112ce39c89
+1809	1821	1724087991409414507	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-patch	4ae3c112ce39c89
+1822	1834	1724087991422337481	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-configure	fd6a29f191ca0948
+1822	1834	1724087991422337481	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-configure	fd6a29f191ca0948
+1834	1846	1724087991434448084	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-build	6f4153714746cd4f
+1834	1846	1724087991434448084	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-build	6f4153714746cd4f
+1847	1864	1724087991451060079	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-install	d01942ab56acdf11
+1847	1864	1724087991451060079	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-install	d01942ab56acdf11
+1864	1884	1724087991471597637	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-test	3405116bee77881
+1864	1884	1724087991471597637	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-test	3405116bee77881
+1884	1903	1724087991491246242	CMakeFiles/sodium-populate-complete	12ebc6694134d0a6
+1884	1903	1724087991491246242	sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-done	12ebc6694134d0a6
+1884	1903	1724087991491246242	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/CMakeFiles/sodium-populate-complete	12ebc6694134d0a6
+1884	1903	1724087991491246242	/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-done	12ebc6694134d0a6

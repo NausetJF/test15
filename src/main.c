@@ -19,20 +19,28 @@ int main(void)
 {
   InitWindow(800, 800, "raylib");
   gamestate game = InitGameState();
-  
-  cat rootcat = InitCat();
+  printf("\nfirst cat\n");
+  cat *rootcat = InitCat();
+  printf("\ndone\n");
 
   Camera3D camera = InitCamera();
 
   while (!WindowShouldClose())
   {
-    TickCat(&rootcat);    
+    TickCat(rootcat);
+    int count_of_cats = CountCats(rootcat); 
+    char count_str[15];
+    sprintf(count_str,"%d",count_of_cats);
     BeginDrawing();
     ClearBackground(BLACK);
     BeginMode3D(camera);
     {
-      DrawCat(&rootcat);
+
+      // DrawText(count_str,20,10,10,WHITE);
+      DrawCat(rootcat);
     }
+    printf("%d",count_of_cats);
+    DrawText(count_str,20,10,10,WHITE);
     EndMode3D();
     DrawFPS(10, 10);
     EndDrawing();

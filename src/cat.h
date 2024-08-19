@@ -13,12 +13,15 @@ struct cat
     /* data */
 };
 
-cat InitCat();
+cat* InitCat();
 
-void TickCat();
+void TickCat(cat *rootcat);
 
+cat* getLastCatPtr(cat *rootcat);
 
 void UpdateCat();
+
+int CountCats(cat *rootcat);
 
 void DrawCat(cat *rootcat);
 
