@@ -2,7 +2,7 @@
 #ifndef GAMESTATE_H
 #define GAMESTATE_H
 #include "color.h"
-#define ALLEY_X 400
+#define ALLEY_X 20
 
 struct gamestate
 {

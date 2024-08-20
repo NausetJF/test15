@@ -8,7 +8,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/<executable file>",
+            "program": "/Users/nausetjf/CodeFiles/raylib/test15/build/src/test15",
             "args": [],
             "cwd": "${workspaceFolder}"
         }

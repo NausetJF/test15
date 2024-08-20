@@ -18,7 +18,7 @@ cat* InitCat()
 }
 
 
-void GameTick(cat *rootcat, gamestate *context)
+void CatTick(cat *rootcat, gamestate *context)
 {
 
     int randomvalue = GetRandomValue(0,1);
@@ -33,33 +33,7 @@ void GameTick(cat *rootcat, gamestate *context)
         context->points += 1;
     }
 
-    float movement_speed = 0.5f;
-
-    if (IsKeyDown(KEY_D))
-    {
-        moveCat(rootcat,-movement_speed,0.0f,0.0f);
-        /* code */
-    }
-    if (IsKeyDown(KEY_A))
-    {
-        moveCat(rootcat,+movement_speed,0.0f,0.0f);
-        /* code */
-    }
     
-    if (IsKeyDown(KEY_W))
-    {
-        moveCat(rootcat,0.0f,-movement_speed,0.0f);
-        /* code */
-    }
-    
-    
-    if (IsKeyDown(KEY_S))
-    {
-        moveCat(rootcat,0.0f,+movement_speed,0.0f);
-        /* code */
-    }
-    
-
     CatRun(rootcat);
     
     

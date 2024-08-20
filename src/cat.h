@@ -15,7 +15,7 @@ struct cat
 
 cat* InitCat();
 
-void GameTick(cat *rootcat, gamestate *context);
+void CatTick(cat *rootcat, gamestate *context);
 
 void MovementTick(cat *rootcat);
 

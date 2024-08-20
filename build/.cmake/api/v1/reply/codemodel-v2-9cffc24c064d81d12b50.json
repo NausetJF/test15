@@ -21,14 +21,14 @@
 				},
 				{
 					"build" : "_deps/sodium-build",
-					"jsonFile" : "directory-_deps.sodium-build-Debug-b1b2bdca761e42474188.json",
+					"jsonFile" : "directory-_deps.sodium-build-Debug-b5985cd06f225bd8a092.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.11"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 1,
-					"source" : "cmake-build-debug/_deps/sodium-src",
+					"source" : "build/_deps/sodium-src",
 					"targetIndexes" : 
 					[
 						0
@@ -87,14 +87,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "sodium::@85bc5b5907daaa7850f0",
-					"jsonFile" : "target-sodium-Debug-47e376918fe928a7a5a8.json",
+					"jsonFile" : "target-sodium-Debug-01b61f653fce952f6ef7.json",
 					"name" : "sodium",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "test15::@145eef247bfb46b6828c",
-					"jsonFile" : "target-test15-Debug-eb7dced4870c9faf85c9.json",
+					"jsonFile" : "target-test15-Debug-268d953fe890caa5076c.json",
 					"name" : "test15",
 					"projectIndex" : 0
 				}
@@ -104,12 +104,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug",
+		"build" : "/Users/nausetjf/CodeFiles/raylib/test15/build",
 		"source" : "/Users/nausetjf/CodeFiles/raylib/test15"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }
