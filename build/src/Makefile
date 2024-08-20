@@ -227,6 +227,30 @@ main.c.s:
 	cd /Users/nausetjf/CodeFiles/raylib/test15/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/main.c.s
 .PHONY : main.c.s
 
+stage.o: stage.c.o
+.PHONY : stage.o
+
+# target to build an object file
+stage.c.o:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/stage.c.o
+.PHONY : stage.c.o
+
+stage.i: stage.c.i
+.PHONY : stage.i
+
+# target to preprocess a source file
+stage.c.i:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/stage.c.i
+.PHONY : stage.c.i
+
+stage.s: stage.c.s
+.PHONY : stage.s
+
+# target to generate assembly for a file
+stage.c.s:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/stage.c.s
+.PHONY : stage.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -248,6 +272,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... stage.o"
+	@echo "... stage.i"
+	@echo "... stage.s"
 .PHONY : help
 
 

@@ -3,7 +3,7 @@
 #ifndef CAT_H
 #define CAT_H
 typedef struct cat cat;
-
+#include "gamestate.h"
 struct cat
 {
     Vector3 position;
@@ -15,9 +15,17 @@ struct cat
 
 cat* InitCat();
 
-void TickCat(cat *rootcat);
+void GameTick(cat *rootcat, gamestate *context);
 
-cat* getLastCatPtr(cat *rootcat);
+void MovementTick(cat *rootcat);
+
+void MovementInput(cat *rootcat, float movement_speed);
+
+void CatRun(cat *rootcat);
+
+void moveCat(cat *rootcat, float x, float y, float z);
+
+cat *getLastCatPtr(cat *rootcat);
 
 void UpdateCat();
 

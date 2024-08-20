@@ -9,6 +9,7 @@ set(OLD_GLOB
   "/Users/nausetjf/CodeFiles/raylib/test15/src/color.c"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/main.c"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -21,6 +22,8 @@ set(OLD_GLOB
   "/Users/nausetjf/CodeFiles/raylib/test15/src/cat.h"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/color.h"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.h"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/main.h"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

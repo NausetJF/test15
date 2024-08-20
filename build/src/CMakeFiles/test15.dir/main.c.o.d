@@ -83,4 +83,5 @@ src/CMakeFiles/test15.dir/main.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/malloc/_ptrcheck.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/nausetjf/CodeFiles/raylib/test15/src/cat.h
+  /Users/nausetjf/CodeFiles/raylib/test15/src/cat.h \
+  /Users/nausetjf/CodeFiles/raylib/test15/src/stage.h

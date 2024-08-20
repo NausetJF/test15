@@ -3,6 +3,8 @@
 #include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
+
+#include "gamestate.h"
 cat* InitCat()
 {
     cat* newcat = (cat*)malloc(sizeof(cat));
@@ -10,16 +12,16 @@ cat* InitCat()
     Texture2D texture = LoadTexture("media/cat.png");
     newcat->bud = NULL;
     newcat->body.materials[0].maps[MATERIAL_MAP_DIFFUSE].texture = texture;   
-    newcat->position = (Vector3){GetRandomValue(-10,10),GetRandomValue(-10,10),GetRandomValue(-10,10)};
+    newcat->position = (Vector3){GetRandomValue(-10,10),GetRandomValue(-10,10),GetRandomValue(-100,-50)};
     
     return newcat;
 }
 
 
-void TickCat(cat *rootcat)
+void GameTick(cat *rootcat, gamestate *context)
 {
 
-    int randomvalue = GetRandomValue(0,1000);
+    int randomvalue = GetRandomValue(0,1);
     if (randomvalue == 1){
         printf("\nAdding cat\n");
         cat* newcat = InitCat();
@@ -28,10 +30,60 @@ void TickCat(cat *rootcat)
         lastptr->bud = newcat;
         printf("\nshould be added now\n");
         // ????? why is it crashing HERE? 
-
+        context->points += 1;
     }
-    printf("done tick");
 
+    float movement_speed = 0.5f;
+
+    if (IsKeyDown(KEY_D))
+    {
+        moveCat(rootcat,-movement_speed,0.0f,0.0f);
+        /* code */
+    }
+    if (IsKeyDown(KEY_A))
+    {
+        moveCat(rootcat,+movement_speed,0.0f,0.0f);
+        /* code */
+    }
+    
+    if (IsKeyDown(KEY_W))
+    {
+        moveCat(rootcat,0.0f,-movement_speed,0.0f);
+        /* code */
+    }
+    
+    
+    if (IsKeyDown(KEY_S))
+    {
+        moveCat(rootcat,0.0f,+movement_speed,0.0f);
+        /* code */
+    }
+    
+
+    CatRun(rootcat);
+    
+    
+    printf("done tick");
+}
+
+void CatRun(cat *rootcat)
+{
+    moveCat(rootcat, 0, 0, 2);
+}
+
+void moveCat(cat *rootcat, float x, float y,float z)
+{
+    cat *current = rootcat;
+
+    while (current->bud != NULL)
+    {
+        current->position.x = current->position.x + x;
+        current->position.y = current->position.y + y;
+        current->position.z = current->position.z + z;
+        current = current->bud;
+        /* code */
+    }
+    
 }
 
 cat* getLastCatPtr(cat *rootcat){

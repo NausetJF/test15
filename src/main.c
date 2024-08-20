@@ -3,7 +3,7 @@
 #include "gamestate.h"
 #include "color.h"
 #include "cat.h"
-
+#include "stage.h"
 Camera3D InitCamera()
 {
   Camera3D camera;
@@ -22,27 +22,35 @@ int main(void)
   printf("\nfirst cat\n");
   cat *rootcat = InitCat();
   printf("\ndone\n");
+  
 
+
+  printf("\nmainstage init.\n");
+  stage *mainstage_ptr = InitStage();  
+
+
+  SetTargetFPS(60);
   Camera3D camera = InitCamera();
-
   while (!WindowShouldClose())
   {
-    TickCat(rootcat);
-    int count_of_cats = CountCats(rootcat); 
+    UpdateCamera(&camera,CAMERA_ORBITAL);
+    GameTick(rootcat, &game);
+    int count_of_cats = CountCats(rootcat);
     char count_str[15];
-    sprintf(count_str,"%d",count_of_cats);
+    sprintf(count_str, "%d", count_of_cats);
     BeginDrawing();
-    ClearBackground(BLACK);
-    BeginMode3D(camera);
     {
-
-      // DrawText(count_str,20,10,10,WHITE);
-      DrawCat(rootcat);
+      ClearBackground(BLACK);
+      BeginMode3D(camera);
+      {
+        DrawStage(mainstage_ptr);
+        DrawCat(rootcat);
+      }
+      printf("\n\n%d\n\n", count_of_cats);
+      EndMode3D();
+      DrawText(count_str, 10, 40, 40, WHITE);
+      DrawFPS(10, 10);
     }
-    printf("%d",count_of_cats);
-    DrawText(count_str,20,10,10,WHITE);
-    EndMode3D();
-    DrawFPS(10, 10);
     EndDrawing();
   }
 }

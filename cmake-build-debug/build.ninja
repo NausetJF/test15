@@ -84,8 +84,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ae
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/aes256gcm/aesni
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium/aead_chacha20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium/aead_chacha20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -94,8 +92,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ae
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium/aead_xchacha20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium/aead_xchacha20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -104,8 +100,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ae
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/crypto_auth.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/crypto_auth.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -114,8 +108,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_au
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha256/auth_hmacsha256.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha256/auth_hmacsha256.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -124,8 +116,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_au
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512/auth_hmacsha512.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha512/auth_hmacsha512.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -134,8 +124,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_au
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512256/auth_hmacsha512256.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha512256/auth_hmacsha512256.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -144,8 +132,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_au
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -154,8 +140,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_bo
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box_easy.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box_easy.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -164,8 +148,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_bo
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box_seal.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box_seal.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -174,8 +156,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_bo
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305/box_curve25519xsalsa20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305/box_curve25519xsalsa20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -184,8 +164,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_bo
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/ref10/ed25519_ref10.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/ref10/ed25519_ref10.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -194,8 +172,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -204,8 +180,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hchacha20
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/core_hsalsa20.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hsalsa20/core_hsalsa20.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -214,8 +188,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/ref2/core_hsalsa20_ref2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hsalsa20/ref2/core_hsalsa20_ref2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -224,8 +196,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/ref2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/salsa/ref/core_salsa_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/salsa/ref/core_salsa_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -234,8 +204,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/salsa/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/generichash_blake2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/generichash_blake2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -244,8 +212,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-avx2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-avx2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -254,8 +220,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -264,8 +228,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-sse41.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-sse41.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -274,8 +236,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ssse3.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ssse3.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -284,8 +244,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -294,8 +252,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/generichash_blake2b.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/generichash_blake2b.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -304,8 +260,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/crypto_generichash.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/crypto_generichash.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -314,8 +268,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ge
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/crypto_hash.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/crypto_hash.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -324,8 +276,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ha
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/cp/hash_sha256_cp.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha256/cp/hash_sha256_cp.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -334,8 +284,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ha
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/cp
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/hash_sha256.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha256/hash_sha256.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -344,8 +292,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ha
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/cp/hash_sha512_cp.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha512/cp/hash_sha512_cp.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -354,8 +300,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ha
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/cp
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/hash_sha512.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha512/hash_sha512.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -364,8 +308,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ha
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/blake2b/kdf_blake2b.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_kdf/blake2b/kdf_blake2b.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -374,8 +316,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kd
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/blake2b
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/crypto_kdf.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_kdf/crypto_kdf.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -384,8 +324,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kd
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kx/crypto_kx.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_kx/crypto_kx.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -394,8 +332,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kx
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kx
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/crypto_onetimeauth.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/crypto_onetimeauth.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -404,8 +340,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_on
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -414,8 +348,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_on
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/onetimeauth_poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/onetimeauth_poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -424,8 +356,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_on
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2/poly1305_sse2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2/poly1305_sse2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -434,8 +364,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_on
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -444,8 +372,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -454,8 +380,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -464,8 +388,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx512f.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx512f.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -474,8 +396,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -484,8 +404,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ssse3.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ssse3.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -494,8 +412,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -504,8 +420,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/blake2b-long.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/blake2b-long.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -514,8 +428,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2i.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2i.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -524,8 +436,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2id.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2id.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -534,8 +444,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/crypto_pwhash.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/crypto_pwhash.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -544,8 +452,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/crypto_scalarmult.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/crypto_scalarmult.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -554,8 +460,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10/x25519_ref10.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10/x25519_ref10.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -564,8 +468,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/curve25519_sandy2x.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/curve25519_sandy2x.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -574,8 +476,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe51_invert.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe51_invert.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -584,8 +484,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe_frombytes_sandy2x.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe_frombytes_sandy2x.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -594,8 +492,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/scalarmult_curve25519.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/scalarmult_curve25519.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -604,8 +500,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -614,8 +508,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_se
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox_easy.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox_easy.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -624,8 +516,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_se
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305/secretbox_xsalsa20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305/secretbox_xsalsa20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -634,8 +524,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_se
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305/secretstream_xchacha20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305/secretstream_xchacha20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -644,8 +532,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_se
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/crypto_shorthash.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/crypto_shorthash.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -654,8 +540,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sh
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphash24_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphash24_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -664,8 +548,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sh
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphash24.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphash24.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -674,8 +556,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sh
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/crypto_sign.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/crypto_sign.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -684,8 +564,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_si
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/keypair.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/keypair.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -694,8 +572,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_si
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/open.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/open.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -704,8 +580,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_si
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/sign.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/sign.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -714,8 +588,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_si
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/sign_ed25519.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/sign_ed25519.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -724,8 +596,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_si
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-avx2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-avx2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -734,8 +604,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-ssse3.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-ssse3.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -744,8 +612,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/ref/chacha20_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/ref/chacha20_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -754,8 +620,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/stream_chacha20.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/stream_chacha20.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -764,8 +628,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/crypto_stream.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/crypto_stream.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -774,8 +636,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/ref/salsa20_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/ref/salsa20_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -784,8 +644,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/stream_salsa20.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/stream_salsa20.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -794,8 +652,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6/salsa20_xmm6.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6/salsa20_xmm6.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -804,8 +660,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -814,8 +668,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-sse2.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-sse2.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -824,8 +676,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xsalsa20/stream_xsalsa20.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/xsalsa20/stream_xsalsa20.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -834,8 +684,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xsalsa20
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_verify/sodium/verify.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_verify/sodium/verify.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -844,8 +692,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_ve
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_verify/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/internal/randombytes_internal_random.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/randombytes/internal/randombytes_internal_random.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -854,8 +700,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombyt
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/internal
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/randombytes.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/randombytes/randombytes.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -864,8 +708,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombyt
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/sysrandom/randombytes_sysrandom.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/randombytes/sysrandom/randombytes_sysrandom.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -874,8 +716,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombyt
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/sysrandom
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/codecs.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/sodium/codecs.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -884,8 +724,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/core.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/sodium/core.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -894,8 +732,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/runtime.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/sodium/runtime.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -904,8 +740,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/ru
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/utils.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/sodium/utils.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -914,8 +748,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/ut
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/version.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/sodium/version.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -924,8 +756,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/ve
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_curve25519xchacha20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_curve25519xchacha20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -934,8 +764,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_bo
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -944,8 +772,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_bo
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/core_ed25519.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/core_ed25519.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -954,8 +780,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/core_ristretto255.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/core_ristretto255.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -964,8 +788,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_co
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/crypto_scrypt-common.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/crypto_scrypt-common.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -974,8 +796,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse/pwhash_scryptsalsa208sha256_nosse.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse/pwhash_scryptsalsa208sha256_nosse.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -984,8 +804,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pbkdf2-sha256.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pbkdf2-sha256.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -994,8 +812,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pwhash_scryptsalsa208sha256.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pwhash_scryptsalsa208sha256.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1004,8 +820,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/scrypt_platform.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/scrypt_platform.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1014,8 +828,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse/pwhash_scryptsalsa208sha256_sse.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse/pwhash_scryptsalsa208sha256_sse.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1024,8 +836,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pw
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10/scalarmult_ed25519_ref10.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10/scalarmult_ed25519_ref10.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1034,8 +844,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1044,8 +852,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sc
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305/secretbox_xchacha20poly1305.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305/secretbox_xchacha20poly1305.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1054,8 +860,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_se
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphashx24_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphashx24_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1064,8 +868,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sh
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphashx24.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphashx24.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1074,8 +876,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sh
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/obsolete.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/obsolete.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1084,8 +884,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_si
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/ref/stream_salsa2012_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa2012/ref/stream_salsa2012_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1094,8 +892,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/stream_salsa2012.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa2012/stream_salsa2012.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1104,8 +900,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/ref/stream_salsa208_ref.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa208/ref/stream_salsa208_ref.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1114,8 +908,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/ref
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/stream_salsa208.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa208/stream_salsa208.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1124,8 +916,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xchacha20/stream_xchacha20.c.o: C_COMPILER__sodium_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/xchacha20/stream_xchacha20.c || cmake_object_order_depends_target_sodium
   DEFINES = -DCONFIGURED -DSODIUM_STATIC
@@ -1134,8 +924,6 @@ build _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_st
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include/sodium
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   OBJECT_FILE_DIR = _deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xchacha20
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
 
 
 # =============================================================================
@@ -1151,9 +939,8 @@ build _deps/sodium-build/libsodium.a: C_STATIC_LIBRARY_LINKER__sodium_Debug _dep
   OBJECT_DIR = _deps/sodium-build/CMakeFiles/sodium.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = _deps/sodium-build/CMakeFiles/sodium.dir/sodium.pdb
   TARGET_FILE = _deps/sodium-build/libsodium.a
-  TARGET_PDB = _deps/sodium-build/libsodium.pdb
+  TARGET_PDB = sodium.a.dbg
 
 
 #############################################
@@ -1199,8 +986,6 @@ build src/CMakeFiles/test15.dir/cat.c.o: C_COMPILER__test15_unscanned_Debug /Use
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include
   OBJECT_DIR = src/CMakeFiles/test15.dir
   OBJECT_FILE_DIR = src/CMakeFiles/test15.dir
-  TARGET_COMPILE_PDB = src/CMakeFiles/test15.dir/
-  TARGET_PDB = src/test15.pdb
 
 build src/CMakeFiles/test15.dir/color.c.o: C_COMPILER__test15_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/src/color.c || cmake_object_order_depends_target_test15
   DEFINES = -DSODIUM_STATIC
@@ -1209,8 +994,6 @@ build src/CMakeFiles/test15.dir/color.c.o: C_COMPILER__test15_unscanned_Debug /U
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include
   OBJECT_DIR = src/CMakeFiles/test15.dir
   OBJECT_FILE_DIR = src/CMakeFiles/test15.dir
-  TARGET_COMPILE_PDB = src/CMakeFiles/test15.dir/
-  TARGET_PDB = src/test15.pdb
 
 build src/CMakeFiles/test15.dir/gamestate.c.o: C_COMPILER__test15_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c || cmake_object_order_depends_target_test15
   DEFINES = -DSODIUM_STATIC
@@ -1219,8 +1002,6 @@ build src/CMakeFiles/test15.dir/gamestate.c.o: C_COMPILER__test15_unscanned_Debu
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include
   OBJECT_DIR = src/CMakeFiles/test15.dir
   OBJECT_FILE_DIR = src/CMakeFiles/test15.dir
-  TARGET_COMPILE_PDB = src/CMakeFiles/test15.dir/
-  TARGET_PDB = src/test15.pdb
 
 build src/CMakeFiles/test15.dir/main.c.o: C_COMPILER__test15_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/src/main.c || cmake_object_order_depends_target_test15
   DEFINES = -DSODIUM_STATIC
@@ -1229,8 +1010,14 @@ build src/CMakeFiles/test15.dir/main.c.o: C_COMPILER__test15_unscanned_Debug /Us
   INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include
   OBJECT_DIR = src/CMakeFiles/test15.dir
   OBJECT_FILE_DIR = src/CMakeFiles/test15.dir
-  TARGET_COMPILE_PDB = src/CMakeFiles/test15.dir/
-  TARGET_PDB = src/test15.pdb
+
+build src/CMakeFiles/test15.dir/stage.c.o: C_COMPILER__test15_unscanned_Debug /Users/nausetjf/CodeFiles/raylib/test15/src/stage.c || cmake_object_order_depends_target_test15
+  DEFINES = -DSODIUM_STATIC
+  DEP_FILE = src/CMakeFiles/test15.dir/stage.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics -I/opt/homebrew/Cellar/raylib/5.0/include
+  INCLUDES = -I/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include
+  OBJECT_DIR = src/CMakeFiles/test15.dir
+  OBJECT_FILE_DIR = src/CMakeFiles/test15.dir
 
 
 # =============================================================================
@@ -1240,15 +1027,14 @@ build src/CMakeFiles/test15.dir/main.c.o: C_COMPILER__test15_unscanned_Debug /Us
 #############################################
 # Link the executable src/test15
 
-build src/test15: C_EXECUTABLE_LINKER__test15_Debug src/CMakeFiles/test15.dir/cat.c.o src/CMakeFiles/test15.dir/color.c.o src/CMakeFiles/test15.dir/gamestate.c.o src/CMakeFiles/test15.dir/main.c.o | /opt/homebrew/Cellar/raylib/5.0/lib/libraylib.dylib _deps/sodium-build/libsodium.a || _deps/sodium-build/libsodium.a
+build src/test15: C_EXECUTABLE_LINKER__test15_Debug src/CMakeFiles/test15.dir/cat.c.o src/CMakeFiles/test15.dir/color.c.o src/CMakeFiles/test15.dir/gamestate.c.o src/CMakeFiles/test15.dir/main.c.o src/CMakeFiles/test15.dir/stage.c.o | /opt/homebrew/Cellar/raylib/5.0/lib/libraylib.dylib _deps/sodium-build/libsodium.a || _deps/sodium-build/libsodium.a
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   LINK_LIBRARIES = /opt/homebrew/Cellar/raylib/5.0/lib/libraylib.dylib  _deps/sodium-build/libsodium.a  -framework IOKit  -framework Cocoa  -framework OpenGL  -L/opt/homebrew/Cellar/raylib/5.0/lib -lraylib
   OBJECT_DIR = src/CMakeFiles/test15.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = src/CMakeFiles/test15.dir/
   TARGET_FILE = src/test15
-  TARGET_PDB = src/test15.pdb
+  TARGET_PDB = test15.dbg
 
 
 #############################################
@@ -1327,14 +1113,14 @@ build /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/cmake
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/cmake.verify_globs | /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCCompilerABI.c /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystem.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindGit.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPkgConfig.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Users/nausetjf/CodeFiles/raylib/test15/CMakeLists.txt /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake /Users/nausetjf/CodeFiles/raylib/test15/src/CMakeLists.txt /opt/homebrew/lib/cmake/raylib/raylib-config-version.cmake /opt/homebrew/lib/cmake/raylib/raylib-config.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake _deps/sodium-src/CMakeLists.txt _deps/sodium-src/libsodium/src/libsodium/include/sodium/version.h.in
+build build.ninja: RERUN_CMAKE /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/cmake.verify_globs | /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindGit.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPkgConfig.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Users/nausetjf/CodeFiles/raylib/test15/CMakeLists.txt /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake /Users/nausetjf/CodeFiles/raylib/test15/src/CMakeLists.txt /opt/homebrew/lib/cmake/raylib/raylib-config-version.cmake /opt/homebrew/lib/cmake/raylib/raylib-config.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake _deps/sodium-src/CMakeLists.txt _deps/sodium-src/libsodium/src/libsodium/include/sodium/version.h.in
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCCompilerABI.c /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystem.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindGit.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPkgConfig.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Users/nausetjf/CodeFiles/raylib/test15/CMakeLists.txt /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake /Users/nausetjf/CodeFiles/raylib/test15/src/CMakeLists.txt /opt/homebrew/lib/cmake/raylib/raylib-config-version.cmake /opt/homebrew/lib/cmake/raylib/raylib-config.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake _deps/sodium-src/CMakeLists.txt _deps/sodium-src/libsodium/src/libsodium/include/sodium/version.h.in: phony
+build /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindGit.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPkgConfig.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake /Users/nausetjf/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /Users/nausetjf/CodeFiles/raylib/test15/CMakeLists.txt /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake /Users/nausetjf/CodeFiles/raylib/test15/src/CMakeLists.txt /opt/homebrew/lib/cmake/raylib/raylib-config-version.cmake /opt/homebrew/lib/cmake/raylib/raylib-config.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake _deps/sodium-src/CMakeLists.txt _deps/sodium-src/libsodium/src/libsodium/include/sodium/version.h.in: phony
 
 
 #############################################

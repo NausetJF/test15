@@ -658,5 +658,11 @@
   "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test15/build/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/test15.dir/main.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/main.c",
   "file": "/Users/nausetjf/CodeFiles/raylib/test15/src/main.c",
   "output": "src/CMakeFiles/test15.dir/main.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test15/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test15/build/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/test15.dir/stage.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/stage.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c",
+  "output": "src/CMakeFiles/test15.dir/stage.c.o"
 }
 ]
