@@ -5,7 +5,11 @@ cmake_policy(SET CMP0009 NEW)
 # helloworld_SRC at src/CMakeLists.txt:3 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/nausetjf/CodeFiles/raylib/test15/src/*.c")
 set(OLD_GLOB
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/cat.c"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/color.c"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/main.c"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -15,6 +19,11 @@ endif()
 # helloworld_SRC at src/CMakeLists.txt:3 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/nausetjf/CodeFiles/raylib/test15/src/*.h")
 set(OLD_GLOB
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/cat.h"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/color.h"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.h"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/main.h"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

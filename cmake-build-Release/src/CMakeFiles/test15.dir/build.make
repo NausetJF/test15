@@ -69,10 +69,52 @@ include src/CMakeFiles/test15.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/CMakeFiles/test15.dir/flags.make
 
+src/CMakeFiles/test15.dir/cat.c.o: src/CMakeFiles/test15.dir/flags.make
+src/CMakeFiles/test15.dir/cat.c.o: /Users/nausetjf/CodeFiles/raylib/test15/src/cat.c
+src/CMakeFiles/test15.dir/cat.c.o: src/CMakeFiles/test15.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object src/CMakeFiles/test15.dir/cat.c.o"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/CMakeFiles/test15.dir/cat.c.o -MF CMakeFiles/test15.dir/cat.c.o.d -o CMakeFiles/test15.dir/cat.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/cat.c
+
+src/CMakeFiles/test15.dir/cat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/test15.dir/cat.c.i"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/nausetjf/CodeFiles/raylib/test15/src/cat.c > CMakeFiles/test15.dir/cat.c.i
+
+src/CMakeFiles/test15.dir/cat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/test15.dir/cat.c.s"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/nausetjf/CodeFiles/raylib/test15/src/cat.c -o CMakeFiles/test15.dir/cat.c.s
+
+src/CMakeFiles/test15.dir/color.c.o: src/CMakeFiles/test15.dir/flags.make
+src/CMakeFiles/test15.dir/color.c.o: /Users/nausetjf/CodeFiles/raylib/test15/src/color.c
+src/CMakeFiles/test15.dir/color.c.o: src/CMakeFiles/test15.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/CMakeFiles/test15.dir/color.c.o"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/CMakeFiles/test15.dir/color.c.o -MF CMakeFiles/test15.dir/color.c.o.d -o CMakeFiles/test15.dir/color.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/color.c
+
+src/CMakeFiles/test15.dir/color.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/test15.dir/color.c.i"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/nausetjf/CodeFiles/raylib/test15/src/color.c > CMakeFiles/test15.dir/color.c.i
+
+src/CMakeFiles/test15.dir/color.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/test15.dir/color.c.s"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/nausetjf/CodeFiles/raylib/test15/src/color.c -o CMakeFiles/test15.dir/color.c.s
+
+src/CMakeFiles/test15.dir/gamestate.c.o: src/CMakeFiles/test15.dir/flags.make
+src/CMakeFiles/test15.dir/gamestate.c.o: /Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c
+src/CMakeFiles/test15.dir/gamestate.c.o: src/CMakeFiles/test15.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/CMakeFiles/test15.dir/gamestate.c.o"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/CMakeFiles/test15.dir/gamestate.c.o -MF CMakeFiles/test15.dir/gamestate.c.o.d -o CMakeFiles/test15.dir/gamestate.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c
+
+src/CMakeFiles/test15.dir/gamestate.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/test15.dir/gamestate.c.i"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c > CMakeFiles/test15.dir/gamestate.c.i
+
+src/CMakeFiles/test15.dir/gamestate.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/test15.dir/gamestate.c.s"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c -o CMakeFiles/test15.dir/gamestate.c.s
+
 src/CMakeFiles/test15.dir/main.c.o: src/CMakeFiles/test15.dir/flags.make
 src/CMakeFiles/test15.dir/main.c.o: /Users/nausetjf/CodeFiles/raylib/test15/src/main.c
 src/CMakeFiles/test15.dir/main.c.o: src/CMakeFiles/test15.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object src/CMakeFiles/test15.dir/main.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/CMakeFiles/test15.dir/main.c.o"
 	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/CMakeFiles/test15.dir/main.c.o -MF CMakeFiles/test15.dir/main.c.o.d -o CMakeFiles/test15.dir/main.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/main.c
 
 src/CMakeFiles/test15.dir/main.c.i: cmake_force
@@ -83,19 +125,41 @@ src/CMakeFiles/test15.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/test15.dir/main.c.s"
 	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/nausetjf/CodeFiles/raylib/test15/src/main.c -o CMakeFiles/test15.dir/main.c.s
 
+src/CMakeFiles/test15.dir/stage.c.o: src/CMakeFiles/test15.dir/flags.make
+src/CMakeFiles/test15.dir/stage.c.o: /Users/nausetjf/CodeFiles/raylib/test15/src/stage.c
+src/CMakeFiles/test15.dir/stage.c.o: src/CMakeFiles/test15.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object src/CMakeFiles/test15.dir/stage.c.o"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/CMakeFiles/test15.dir/stage.c.o -MF CMakeFiles/test15.dir/stage.c.o.d -o CMakeFiles/test15.dir/stage.c.o -c /Users/nausetjf/CodeFiles/raylib/test15/src/stage.c
+
+src/CMakeFiles/test15.dir/stage.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/test15.dir/stage.c.i"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/nausetjf/CodeFiles/raylib/test15/src/stage.c > CMakeFiles/test15.dir/stage.c.i
+
+src/CMakeFiles/test15.dir/stage.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/test15.dir/stage.c.s"
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/nausetjf/CodeFiles/raylib/test15/src/stage.c -o CMakeFiles/test15.dir/stage.c.s
+
 # Object files for target test15
 test15_OBJECTS = \
-"CMakeFiles/test15.dir/main.c.o"
+"CMakeFiles/test15.dir/cat.c.o" \
+"CMakeFiles/test15.dir/color.c.o" \
+"CMakeFiles/test15.dir/gamestate.c.o" \
+"CMakeFiles/test15.dir/main.c.o" \
+"CMakeFiles/test15.dir/stage.c.o"
 
 # External object files for target test15
 test15_EXTERNAL_OBJECTS =
 
+src/test15: src/CMakeFiles/test15.dir/cat.c.o
+src/test15: src/CMakeFiles/test15.dir/color.c.o
+src/test15: src/CMakeFiles/test15.dir/gamestate.c.o
 src/test15: src/CMakeFiles/test15.dir/main.c.o
+src/test15: src/CMakeFiles/test15.dir/stage.c.o
 src/test15: src/CMakeFiles/test15.dir/build.make
 src/test15: /opt/homebrew/Cellar/raylib/5.0/lib/libraylib.dylib
 src/test15: _deps/sodium-build/libsodium.a
 src/test15: src/CMakeFiles/test15.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable test15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable test15"
 	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test15.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

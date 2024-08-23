@@ -6,13 +6,24 @@
 			"listDirectories" : true,
 			"paths" : 
 			[
-				"/Users/nausetjf/CodeFiles/raylib/test15/src/main.c"
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/cat.c",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/color.c",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/main.c",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c"
 			]
 		},
 		{
 			"expression" : "/Users/nausetjf/CodeFiles/raylib/test15/src/*.h",
 			"listDirectories" : true,
-			"paths" : []
+			"paths" : 
+			[
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/cat.h",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/color.h",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.h",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/main.h",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/stage.h"
+			]
 		}
 	],
 	"inputs" : 

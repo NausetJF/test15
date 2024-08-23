@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/test15.dir/main.c.o.d"
   "CMakeFiles/test15.dir/stage.c.o"
   "CMakeFiles/test15.dir/stage.c.o.d"
+  "CMakeFiles/test15.dir/ui.c.o"
+  "CMakeFiles/test15.dir/ui.c.o.d"
   "test15"
   "test15.pdb"
 )

@@ -85,4 +85,6 @@ src/CMakeFiles/test15.dir/cat.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_off_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_ssize_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/secure/_stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/secure/_common.h
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/secure/_common.h \
+  /opt/homebrew/Cellar/raylib/5.0/include/raymath.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/math.h

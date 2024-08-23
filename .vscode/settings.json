@@ -2,7 +2,9 @@
     "files.associations": {
         "color.h": "c",
         "raylib.h": "c",
-        "cat.h": "c"
+        "cat.h": "c",
+        "gamestate.h": "c",
+        "stdio.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

@@ -104,7 +104,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk"
+					"fragment" : "-O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk"
 				},
 				{
 					"backtrace" : 2,
@@ -122,7 +122,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/Users/nausetjf/CodeFiles/raylib/test15/build/_deps/sodium-src/libsodium/src/libsodium/include"
+					"path" : "/Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release/_deps/sodium-src/libsodium/src/libsodium/include"
 				},
 				{
 					"backtrace" : 2,
@@ -154,7 +154,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-O3 -DNDEBUG",
 				"role" : "flags"
 			},
 			{

@@ -10,7 +10,8 @@
 				"/Users/nausetjf/CodeFiles/raylib/test15/src/color.c",
 				"/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c",
 				"/Users/nausetjf/CodeFiles/raylib/test15/src/main.c",
-				"/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c"
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/ui.c"
 			]
 		},
 		{
@@ -22,7 +23,8 @@
 				"/Users/nausetjf/CodeFiles/raylib/test15/src/color.h",
 				"/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.h",
 				"/Users/nausetjf/CodeFiles/raylib/test15/src/main.h",
-				"/Users/nausetjf/CodeFiles/raylib/test15/src/stage.h"
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/stage.h",
+				"/Users/nausetjf/CodeFiles/raylib/test15/src/ui.h"
 			]
 		}
 	],
@@ -140,26 +142,6 @@
 			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake"
 		},
 		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindGit.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindPackageMessage.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FetchContent/CMakeLists.cmake.in"
-		},
-		{
 			"isExternal" : true,
 			"path" : "/opt/homebrew/lib/cmake/raylib/raylib-config-version.cmake"
 		},
@@ -191,6 +173,26 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.1/share/cmake/Modules/FetchContent/CMakeLists.cmake.in"
 		},
 		{
 			"isCMake" : true,

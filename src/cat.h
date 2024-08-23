@@ -2,36 +2,45 @@
 
 #ifndef CAT_H
 #define CAT_H
-typedef struct cat cat;
+typedef struct Cat Cat;
 #include "gamestate.h"
-struct cat
+struct Cat
 {
     Vector3 position;
     Model body;
-    struct cat* bud;
-    
+    struct Cat *bud;
+
     /* data */
 };
 
-cat* InitCat();
+Cat *InitCat();
 
-void CatTick(cat *rootcat, gamestate *context);
+void CatTick(Cat *rootcat, Gamestate *context, Camera3D *camera);
 
-void MovementTick(cat *rootcat);
+void CheckCollisions(Cat *rootcat, Gamestate *context, Camera3D *camera);
 
-void MovementInput(cat *rootcat, float movement_speed);
+void AddCat(Cat *rootcat, Gamestate *context);
 
-void CatRun(cat *rootcat);
+bool CatCollided(Cat *rootcat, Gamestate *context, Camera3D *camera);
 
-void moveCat(cat *rootcat, float x, float y, float z);
+void MovementTick(Cat *rootcat);
 
-cat *getLastCatPtr(cat *rootcat);
+void MovementInput(Cat *rootcat, float movement_speed);
+
+void CatRun(Cat *rootcat);
+
+void moveCat(Cat *rootcat, float x, float y, float z);
+
+Cat *getLastCatPtr(Cat *rootcat);
 
 void UpdateCat();
 
-int CountCats(cat *rootcat);
+int CountCats(Cat *rootcat);
 
-void DrawCat(cat *rootcat);
+void DrawCat(Cat *rootcat);
+
+void ClearCatsBehindCamera(Cat *rootcat,Camera3D *camera,Gamestate *context);
+
+void deleteCat(Cat *rootcat, Cat *target);
 
 #endif // !CAT_H
- 

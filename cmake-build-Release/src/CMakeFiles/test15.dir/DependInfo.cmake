@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/cat.c" "src/CMakeFiles/test15.dir/cat.c.o" "gcc" "src/CMakeFiles/test15.dir/cat.c.o.d"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/color.c" "src/CMakeFiles/test15.dir/color.c.o" "gcc" "src/CMakeFiles/test15.dir/color.c.o.d"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c" "src/CMakeFiles/test15.dir/gamestate.c.o" "gcc" "src/CMakeFiles/test15.dir/gamestate.c.o.d"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/main.c" "src/CMakeFiles/test15.dir/main.c.o" "gcc" "src/CMakeFiles/test15.dir/main.c.o.d"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c" "src/CMakeFiles/test15.dir/stage.c.o" "gcc" "src/CMakeFiles/test15.dir/stage.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

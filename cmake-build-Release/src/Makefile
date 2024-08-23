@@ -131,6 +131,78 @@ test15/fast:
 	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/build
 .PHONY : test15/fast
 
+cat.o: cat.c.o
+.PHONY : cat.o
+
+# target to build an object file
+cat.c.o:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/cat.c.o
+.PHONY : cat.c.o
+
+cat.i: cat.c.i
+.PHONY : cat.i
+
+# target to preprocess a source file
+cat.c.i:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/cat.c.i
+.PHONY : cat.c.i
+
+cat.s: cat.c.s
+.PHONY : cat.s
+
+# target to generate assembly for a file
+cat.c.s:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/cat.c.s
+.PHONY : cat.c.s
+
+color.o: color.c.o
+.PHONY : color.o
+
+# target to build an object file
+color.c.o:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/color.c.o
+.PHONY : color.c.o
+
+color.i: color.c.i
+.PHONY : color.i
+
+# target to preprocess a source file
+color.c.i:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/color.c.i
+.PHONY : color.c.i
+
+color.s: color.c.s
+.PHONY : color.s
+
+# target to generate assembly for a file
+color.c.s:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/color.c.s
+.PHONY : color.c.s
+
+gamestate.o: gamestate.c.o
+.PHONY : gamestate.o
+
+# target to build an object file
+gamestate.c.o:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/gamestate.c.o
+.PHONY : gamestate.c.o
+
+gamestate.i: gamestate.c.i
+.PHONY : gamestate.i
+
+# target to preprocess a source file
+gamestate.c.i:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/gamestate.c.i
+.PHONY : gamestate.c.i
+
+gamestate.s: gamestate.c.s
+.PHONY : gamestate.s
+
+# target to generate assembly for a file
+gamestate.c.s:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/gamestate.c.s
+.PHONY : gamestate.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -155,6 +227,30 @@ main.c.s:
 	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/main.c.s
 .PHONY : main.c.s
 
+stage.o: stage.c.o
+.PHONY : stage.o
+
+# target to build an object file
+stage.c.o:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/stage.c.o
+.PHONY : stage.c.o
+
+stage.i: stage.c.i
+.PHONY : stage.i
+
+# target to preprocess a source file
+stage.c.i:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/stage.c.i
+.PHONY : stage.c.i
+
+stage.s: stage.c.s
+.PHONY : stage.s
+
+# target to generate assembly for a file
+stage.c.s:
+	cd /Users/nausetjf/CodeFiles/raylib/test15/cmake-build-Release && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/test15.dir/build.make src/CMakeFiles/test15.dir/stage.c.s
+.PHONY : stage.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -164,9 +260,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... test15"
+	@echo "... cat.o"
+	@echo "... cat.i"
+	@echo "... cat.s"
+	@echo "... color.o"
+	@echo "... color.i"
+	@echo "... color.s"
+	@echo "... gamestate.o"
+	@echo "... gamestate.i"
+	@echo "... gamestate.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... stage.o"
+	@echo "... stage.i"
+	@echo "... stage.s"
 .PHONY : help
 
 

@@ -3,51 +3,97 @@
 #include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "raymath.h"
 #include "gamestate.h"
-cat* InitCat()
+Cat *InitCat()
 {
-    cat* newcat = (cat*)malloc(sizeof(cat));
+    Cat *newcat = (Cat *)malloc(sizeof(Cat));
     newcat->body = LoadModel("media/cat.obj");
     Texture2D texture = LoadTexture("media/cat.png");
     newcat->bud = NULL;
-    newcat->body.materials[0].maps[MATERIAL_MAP_DIFFUSE].texture = texture;   
-    newcat->position = (Vector3){GetRandomValue(-10,10),GetRandomValue(-10,10),GetRandomValue(-100,-50)};
-    
+    newcat->body.materials[0].maps[MATERIAL_MAP_DIFFUSE].texture = texture;
+    newcat->position = (Vector3){GetRandomValue(-10, 10), GetRandomValue(-10, 10), GetRandomValue(-100, -50)};
+
     return newcat;
 }
 
-
-void CatTick(cat *rootcat, gamestate *context)
+void CatTick(Cat *rootcat, Gamestate *context, Camera3D *camera)
 {
 
-    int randomvalue = GetRandomValue(0,1);
-    if (randomvalue == 1){
-        printf("\nAdding cat\n");
-        cat* newcat = InitCat();
-        printf("\ninitted\n");
-        cat *lastptr = getLastCatPtr(rootcat);
-        lastptr->bud = newcat;
-        printf("\nshould be added now\n");
-        // ????? why is it crashing HERE? 
-        context->points += 1;
-    }
+    if (context->running)
+    {
+        AddCat(rootcat, context);
+        CheckCollisions(rootcat, context, camera);
 
-    
-    CatRun(rootcat);
-    
-    
+        CatRun(rootcat);
+
+        /* code */
+    }
+    ClearCatsBehindCamera(rootcat, camera, context);
     printf("done tick");
 }
 
-void CatRun(cat *rootcat)
+void CheckCollisions(Cat *rootcat, Gamestate *context, Camera3D *camera)
+{
+    if (CatCollided(rootcat, context, camera))
+    {
+        context->running = false;
+    }
+}
+
+void AddCat(Cat *rootcat, Gamestate *context)
+{
+    for (int i = 0; i < context->points; i++)
+    {
+        int randomvalue = GetRandomValue(0, 100);
+        if (randomvalue == 1)
+        {
+            printf("\nAdding cat\n");
+            Cat *newcat = InitCat();
+            printf("\ninitted\n");
+            Cat *lastptr = getLastCatPtr(rootcat);
+            lastptr->bud = newcat;
+            printf("\nshould be added now\n");
+        }
+    }
+}
+
+bool CatCollided(Cat *rootcat, Gamestate *context, Camera3D *camera)
+{
+
+    Cat *current = rootcat;
+
+    while (current->bud != NULL)
+    {
+        // printf("past condition");
+        BoundingBox box = GetModelBoundingBox(current->body);
+        Vector3 position = current->position;
+        box.min = Vector3Add(box.min, position);
+        box.max = Vector3Add(box.max, position);
+
+        DrawBoundingBox(box, WHITE);
+        if (CheckCollisionBoxSphere(box, camera->position, 0.01f))
+        {
+            context->running = false;
+            printf("\n\n\nHIT!!\n\n\n");
+            return true;
+            /* code */
+        }
+        current = current->bud;
+
+        /* code */
+    }
+    return false;
+}
+
+void CatRun(Cat *rootcat)
 {
     moveCat(rootcat, 0, 0, 2);
 }
 
-void moveCat(cat *rootcat, float x, float y,float z)
+void moveCat(Cat *rootcat, float x, float y, float z)
 {
-    cat *current = rootcat;
+    Cat *current = rootcat;
 
     while (current->bud != NULL)
     {
@@ -57,54 +103,30 @@ void moveCat(cat *rootcat, float x, float y,float z)
         current = current->bud;
         /* code */
     }
-    
 }
 
-cat* getLastCatPtr(cat *rootcat){
-      // printf("\n start drawing...\n");
+Cat *getLastCatPtr(Cat *rootcat)
+{
     printf("current");
-    cat* current = rootcat;
+    Cat *current = rootcat;
     printf("while loop starting");
     while (current->bud != NULL)
     {
-        // printf("past condition");
         current = current->bud;
-        /* code */
     }
-    
+
     return current;
-    
-
-
-    // shit code;
-
-    // if (&(rootcat) == NULL) {
-    //     printf("something weird happened\n");
-    //     return NULL;
-    // }
-    // cat *last_cat = rootcat;
-
-    // // DrawModel(rootcat->body, rootcat->position, 1.0f, WHITE);
-    // printf("\ndone_getting last...\n");
-    // printf("\ncheck...\n");
-    // if (&(last_cat->bud) == NULL) {
-    //     printf("\nif statement satisfied...\n");
-    //     return last_cat;
-    // }
-    // printf("\nrecurring...\n");
-    // last_cat = getLastCatPtr((last_cat->bud));
-    // printf("next...");
-    // // return last_cat;
 }
 
 void UpdateCat()
 {
 }
 
-int CountCats(cat *rootcat){
+int CountCats(Cat *rootcat)
+{
     // printf("\n start drawing...\n");
     printf("counting started current");
-    cat* current = rootcat;
+    Cat *current = rootcat;
     printf("while loop starting");
     int newcount = 0;
     while (current->bud != NULL)
@@ -113,42 +135,60 @@ int CountCats(cat *rootcat){
         // DrawModel(current->body,current->position,1.0f,WHITE);
         newcount += 1;
         current = current->bud;
-    
+
         /* code */
     }
     return newcount;
 }
 
-void DrawCat(cat *rootcat)
+void DrawCat(Cat *rootcat)
 {
     printf("DRAWing started current");
-    cat* current = rootcat;
+    Cat *current = rootcat;
     printf("while loop starting");
-    
+
     while (current->bud != NULL)
     {
-        // printf("past condition");
-        DrawModel(current->body,current->position,1.0f,WHITE);
+        DrawModel(current->body, current->position, 1.0f, WHITE);
 
         current = current->bud;
-    
-        /* code */
     }
-    
-    // return current;
-    
-    
-    // printf("\n start drawing...\n");
-    // if (&(rootcat) == NULL) {
-    //     printf("rootcat is NULL\n");
-    //     return;
-    // }
+}
 
+void ClearCatsBehindCamera(Cat *rootcat, Camera3D *camera, Gamestate *context)
+{
 
-    // DrawModel(rootcat->body, rootcat->position, 1.0f, WHITE);
-    // printf("\ndone drawing...\n");
-    // if (&(rootcat->bud) != NULL) {
-    //     return;
-    // }
-    // DrawCat(&rootcat->bud);
+    Cat *current = rootcat;
+
+    while (current->bud != NULL)
+    {
+        if (current->position.z > camera->position.z)
+        {
+            deleteCat(rootcat, current);
+            int chance_of_point_increase = GetRandomValue(0, 9);
+            if (chance_of_point_increase == 1)
+            {
+                context->points += 1;
+                /* code */
+            }
+        }
+        current = current->bud;
+    }
+}
+
+void deleteCat(Cat *rootcat, Cat *target)
+{
+
+    Cat *current = rootcat;
+
+    while (current->bud != NULL)
+    {
+
+        if (current->bud == target)
+        {
+            current->bud = current->bud->bud;
+        }
+
+        current = current->bud;
+    }
 }

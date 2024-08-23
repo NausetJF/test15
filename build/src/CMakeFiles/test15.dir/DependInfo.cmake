@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/nausetjf/CodeFiles/raylib/test15/src/gamestate.c" "src/CMakeFiles/test15.dir/gamestate.c.o" "gcc" "src/CMakeFiles/test15.dir/gamestate.c.o.d"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/main.c" "src/CMakeFiles/test15.dir/main.c.o" "gcc" "src/CMakeFiles/test15.dir/main.c.o.d"
   "/Users/nausetjf/CodeFiles/raylib/test15/src/stage.c" "src/CMakeFiles/test15.dir/stage.c.o" "gcc" "src/CMakeFiles/test15.dir/stage.c.o.d"
+  "/Users/nausetjf/CodeFiles/raylib/test15/src/ui.c" "src/CMakeFiles/test15.dir/ui.c.o" "gcc" "src/CMakeFiles/test15.dir/ui.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

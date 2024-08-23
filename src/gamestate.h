@@ -4,21 +4,19 @@
 #include "color.h"
 #define ALLEY_X 20
 
-struct gamestate
+struct Gamestate
 {
     int points;
-    Color primary_color; 
-    Color secondary_color; 
+    Color primary_color;
+    Color secondary_color;
     Vector3 camera_pos;
+    bool running;
+    bool start;
     /* data */
 };
 
-typedef struct gamestate gamestate;
+typedef struct Gamestate Gamestate;
 
-
-
-gamestate InitGameState(void);
-
+Gamestate InitGameState(void);
 
 #endif // !GAMESTATE_H
-
